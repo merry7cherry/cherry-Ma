@@ -21,7 +21,7 @@ repository               : "https://merry7cherry.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "eat-page.png"
   name             : "Chenrui Ma"
   pronouns         : # example: "she/her"  
   bio              : "A senior student at UCI, majoring in computer science."
