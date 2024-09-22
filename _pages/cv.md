@@ -32,7 +32,7 @@ Research experience
   * Developing an enhanced YOLOv7tiny-based rapid detection model for cigarette appearance defects. (Under Review)
       * Title: [_SCS-YOLO: A Defect Detection Model for Cigarette Appearance_]()
   * Developed a novel end-to-end dense object detection method based on differentiated encoding, improving deduplication capability and detection accuracy while reducing model parameters. 
-      * Title: [_Dense Object Detection Based on De-Homogenized Queries_](10.3390/electronics13122312)
+      * Title: [_Dense Object Detection Based on De-Homogenized Queries_](https://doi.org/10.3390/electronics13122312)
 
 
 Work experience
