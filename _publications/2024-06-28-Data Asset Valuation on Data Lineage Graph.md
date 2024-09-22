@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-06-28-Data Asset Valuation on Data Lineage Graph
 excerpt: 'Exploring an efficient and accurate method to identify core data assets in data assets. '
 date: 2024-06-28
-venue: 'BIG-2024'
+venue: 'BIG-2024 (under review)'
 paperurl: 'https://merry7cherry.github.io/cherry-Ma/files/BIG-2024-0115_Proof_hi.pdf'
 ---
 
