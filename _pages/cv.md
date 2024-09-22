@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D or M.S. in ..., ..., 2025.09-... (expected)
-* Joint Education Student in Computer Science, University of California, Irvine, 2024.09-2025.06
-* B.S. in Computer Science, Central South University, 2021.09-2025.06
+* Joint Education Student in Computer Science, [University of California, Irvine](https://uci.edu/), 2024.09-2025.06
+* B.S. in Computer Science, [Central South University](https://www.csu.edu.cn/), 2021.09-2025.06
 
 Work experience
 ======
