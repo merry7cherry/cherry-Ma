@@ -8,7 +8,7 @@ date: 2024-09-22
 venue: 'Electronics 2024, 13(18), 3761'
 paperurl: 'https://merry7cherry.github.io/cherry-Ma/files/electronics-13-03761.pdf'
 citation: 'Ding, Y.; Zhou, H.; Wu, H.; Ma, C.; Yuan, G. SCS-YOLO: A Defect Detection Model for Cigarette Appearance. Electronics 2024, 13, 3761. https://doi.org/10.3390/electronics13183761
-
+        
         '
 ---
 
