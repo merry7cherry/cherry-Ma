@@ -24,7 +24,7 @@ Research experience
 
 
 * 2024.03-Present: Central South University Medical Image Analysis and Computer Vision Group
-  * Supervisor: [Professor Rongchang Zhao](https://faculty.csu.edu.cn/zhaorongchang/en/index.htm)
+  * Supervisor: [Professor Rongchang Zhao](https://rongchangzhao.github.io/)
   * Developing accurate image segmentation techniques for sparsely labeled CT slice sequences, applied to predicting patient survival periods. (in progress)
 
 * 2023.09-2024.08: Yunnan University Visual and Media Computing Laboratory
