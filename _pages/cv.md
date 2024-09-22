@@ -20,7 +20,7 @@ Research experience
 * 2023.06-2024.05: Central South University Data Asset Graph Research Group
   * Supervisor: [Professor Ying Zhao](https://faculty.csu.edu.cn/zhaoying/en/index.htm)
   * Exploring an efficient and accurate method to identify core data assets in data assets. 
-      * Title: _Data Asset Valuation on Data Lineage Graph_ (Under Review)
+      * Title: [_Data Asset Valuation on Data Lineage Graph_](https://merry7cherry.github.io/cherry-Ma/files/BIG-2024-0115_Proof_hi.pdf) (Under Review)
 
 
 * 2024.03-Present: Central South University Medical Image Analysis and Computer Vision Group
