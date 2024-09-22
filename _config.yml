@@ -215,7 +215,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: false
@@ -252,7 +252,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _publications
   - scope:
