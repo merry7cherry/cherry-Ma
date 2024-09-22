@@ -11,10 +11,10 @@ I am currently a senior student at the [University of California, Irvine](https:
 
 Research Interest
 ======
-Machine Learning
-Deep Learning
-Network
-Big Data
+* Machine Learning
+* Deep Learning
+* Networks
+* Big Data
 
 Getting started
 ======
