@@ -1,13 +1,15 @@
 ---
-title: "SCS-YOLO: A Defect Detection Model for Cigarette Appearance"
+title: "Dense Object Detection Based on De-Homogenized Queries"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-22-SCS-YOLO: A Defect Detection Model for Cigarette Appearance
-excerpt: 'Developing an enhanced YOLOv7tiny-based rapid detection model for cigarette appearance defects. '
-date: 2024-09-22
-venue: 'Electronics 2024, 13(18), 3761'
-paperurl: 'https://merry7cherry.github.io/cherry-Ma/files/electronics-13-03761.pdf'
-citation: 'Ding, Y.; Zhou, H.; Wu, H.; Ma, C.; Yuan, G. SCS-YOLO: A Defect Detection Model for Cigarette Appearance. Electronics 2024, 13, 3761. https://doi.org/10.3390/electronics13183761
+permalink: /publication/2024-06-13-Dense Object Detection Based on De-Homogenized Queries
+excerpt: 'Developing a novel end-to-end dense object detection method based on differentiated encoding, improving deduplication capability and detection accuracy while reducing model parameters. '
+date: 2024-06-13
+venue: 'Electronics 2024, 13(12), 2312'
+paperurl: 'https://merry7cherry.github.io/cherry-Ma/files/electronics-13-02312.pdf'
+citation: 'Huang, Y.; Ma, C.; Zhou, H.; Wu, H.; Yuan, G. Dense Object Detection Based on De-Homogenized Queries. Electronics 2024, 13, 2312. https://doi.org/10.3390/electronics13122312
+        
+        
         
         '
 ---
