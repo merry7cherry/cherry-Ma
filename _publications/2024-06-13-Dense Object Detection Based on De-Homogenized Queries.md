@@ -10,7 +10,7 @@ paperurl: 'https://merry7cherry.github.io/cherry-Ma/files/electronics-13-02312.p
 citation: 'Huang, Y.; Ma, C.; Zhou, H.; Wu, H.; Yuan, G. Dense Object Detection Based on De-Homogenized Queries. Electronics 2024, 13, 2312. https://doi.org/10.3390/electronics13122312'
 ---
 
-[Original resource](https://www.mdpi.com/2079-9292/13/12/2312)
+[Original source](https://www.mdpi.com/2079-9292/13/12/2312)
 
 **Abstract**
 
