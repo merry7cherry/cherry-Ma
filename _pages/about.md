@@ -16,14 +16,33 @@ Research Interest
 * Networks
 * Big Data
 
-Getting started
+Courses Studied
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+| Category            | Course Name                                           | Grade |
+| ------------------- | ----------------------------------------------------- | ----- |
+| Major Core Courses   | Analysis and Design of Algorithms                     | A     |
+| Major Core Courses   | Operating Systems                                     | A     |
+| Major Core Courses   | Computer Networks                                     | A+    |
+| Major Core Courses   | Principles of Computer Organization and Assembly Language |  B    |
+| Major Core Courses   | Database Principles                                   | B    |
+| Major Core Courses   | Software Engineering                                  | A+    |
+| Major Courses        | Computer Architecture                                 | A+    |
+| Major Courses        | Machine Learning                                      | A     |
+| Major Courses        | Digital Image Processing                              | A+    |
+| Major Courses        | Deep Learning                                         | A+    |
+| Major Courses        | Computer Vision                                       | A+    |
+| Major Courses        | Data Warehousing and Data Mining                      | A+    |
+| Major Courses        | Distributed Systems and Cloud Computing               | A+    |
+| Major Courses        | Visualization Techniques                              | A+    |
+| Major Courses        | Embedded Systems                                      | A+    |
+| Major Courses        | Artificial Intelligence                               | A+    |
+| Major Courses        | Bioinformatics                                        | A+    |
+| Major Courses        | Linux System and Applications                         | A+    |
+| Major Courses        | C Programming                                         | B     |
+| Major Courses        | Java Programming and Application Development          | B     |
+| Major Courses        | Python Programming                                    | A     |
+| Major Courses        | Human-Computer Interaction                            | A+    |
+| Major Courses        | Game Design                            | A+    |
 
 Site-wide configuration
 ------
