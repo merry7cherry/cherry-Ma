@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Here are some materials of mine:
+* [my Resume](https://merry7cherry.github.io/cherry-Ma/files/ChenruiMa_Resume.pdf)
+* [transcript in CSU](https://merry7cherry.github.io/cherry-Ma/files/transcript.pdf)
+* [Scientific Writing in UCI](https://merry7cherry.github.io/cherry-Ma/files/Scientific-Writing-Grade.pdf)
+* transcript in UCI (in progress)
+
 Education
 ======
 * Ph.D or M.S. in ..., ..., 2025.09-... (expected)
