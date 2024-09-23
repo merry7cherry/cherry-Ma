@@ -1,7 +1,6 @@
 ---
 title: "Data Asset Valuation on Data Lineage Graph"
 collection: publications
-category: manuscripts
 permalink: /publication/2024-06-28-Data Asset Valuation on Data Lineage Graph
 excerpt: 'Exploring an efficient and accurate method to identify core data assets in data assets. '
 date: 2024-06-28
