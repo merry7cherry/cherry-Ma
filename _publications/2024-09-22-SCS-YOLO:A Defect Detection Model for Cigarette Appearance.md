@@ -1,7 +1,6 @@
 ---
 title: "SCS-YOLO: A Defect Detection Model for Cigarette Appearance"
 collection: publications
-category: manuscripts
 permalink: /publication/2024-09-22-SCS-YOLO:A Defect Detection Model for Cigarette Appearance
 excerpt: 'Developing an enhanced YOLOv7tiny-based rapid detection model for cigarette appearance defects. '
 date: 2024-09-22
