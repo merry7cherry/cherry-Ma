@@ -44,6 +44,7 @@ Courses Studied
 | Major Courses        | Python Programming                                    | A     |
 | Major Courses        | Human-Computer Interaction                            | A+    |
 | Major Courses        | Game Design                            | A+    |
+| Courses in UCI       | [Scientific Writing](https://merry7cherry.github.io/cherry-Ma/files/Scientific-Writing-Grade.pdf)                         | A+    |
 
 Site-wide configuration
 ------
