@@ -18,6 +18,7 @@ Research Interest
 
 Courses Studied
 ======
+
 | Category            | Course Name                                           | Grade |
 | ------------------- | ----------------------------------------------------- | ----- |
 | Major Core Courses   | Analysis and Design of Algorithms                     | A     |
