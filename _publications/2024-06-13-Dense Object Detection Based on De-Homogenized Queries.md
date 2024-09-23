@@ -1,6 +1,7 @@
 ---
 title: "Dense Object Detection Based on De-Homogenized Queries"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-06-13-Dense Object Detection Based on De-Homogenized Queries
 excerpt: 'Developing a novel end-to-end dense object detection method based on differentiated encoding, improving deduplication capability and detection accuracy while reducing model parameters. '
 date: 2024-06-13
