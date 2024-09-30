@@ -45,6 +45,14 @@ Courses Studied
 | Major Courses        | Human-Computer Interaction                            | A+    |
 | Major Courses        | Game Design                            | A+    |
 | Courses in UCI       | [Scientific Writing](https://merry7cherry.github.io/cherry-Ma/files/Scientific-Writing-Grade.pdf)                         | A+    |
+| Courses in UCI       | EECS12 Introduction to Programming(Python)  4 Units                          | in process    |
+| Courses in UCI       | EECS215 Design and Analysis of Algorithms  4 Units                          | in process    |
+| Courses in UCI       | EECS159 Senior Design Project  3 Units                          | in process    |
+| Courses in UCI       | EECS199 Individual Study  4 Units                         | in process    |
+| Courses in UCI       | EECS294 Electrical Engineering and Computer Science Colloquium  1 Units                         | in process    |
+
+
+
 
 
 Related Materials
